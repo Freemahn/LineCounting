@@ -1,0 +1,6 @@
+c:\Projects\LineCounting\LineCounting\bin\Debug\LineCounting.exe.config
+c:\Projects\LineCounting\LineCounting\obj\Debug\LineCounting.csprojResolveAssemblyReference.cache
+c:\Projects\LineCounting\LineCounting\bin\Debug\LineCounting.exe
+c:\Projects\LineCounting\LineCounting\bin\Debug\LineCounting.pdb
+c:\Projects\LineCounting\LineCounting\obj\Debug\LineCounting.exe
+c:\Projects\LineCounting\LineCounting\obj\Debug\LineCounting.pdb
